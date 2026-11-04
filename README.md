@@ -1,6 +1,16 @@
 # tailwind-css-multiple-theme-dynamic
-### Tailwind CSS 를 사용하는 Next.js 프로젝트에서 멀티 테마 설정하기
 
+A Next.js + Tailwind CSS example for switching multiple themes dynamically.
 
-[개발 블로그 링크](https://blog.teamelysium.kr/multiple-theme) <br/>
-[테스트 페이지 링크](https://sokkanji.github.io/tailwind-css-multiple-theme-dynamic/)
+Themes are defined with CSS variables + `data-theme`, shared through Context, and saved in `localStorage` so they persist after refresh.
+
+## Links
+
+- [Blog](https://blog.teamelysium.kr/ko/multiple-theme)
+- [Demo](https://sokkanji.github.io/tailwind-css-multiple-theme-dynamic/)
+
+## Run
+
+```bash
+yarn
+yarn dev
