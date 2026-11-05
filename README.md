@@ -1,4 +1,4 @@
-# tailwind-css-multiple-theme-dynamic
+# next-multi-theme
 
 A Next.js + Tailwind CSS example for switching multiple themes dynamically.
 
